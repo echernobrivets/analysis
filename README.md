@@ -1,11 +1,11 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="300" height="300"/>
-  
-  align="right">
+  <h1 align="right">
   Hey there!
   
   This repository consists of basic knowledges about Data analysis. Lots of it got from "Karpov.courses".
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div> 
 
 
