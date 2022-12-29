@@ -1,9 +1,13 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="300" height="300"/>
-  <h1 align="right">
+  <h1 align="center">
   Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    
+  This repository consists of basic knowledges about Data analysis. 
+    
+  Lots of it got from "Karpov.courses".
 </h1>
-  This repository consists of basic knowledges about Data analysis. Lots of it got from "Karpov.courses".
+  
 </div> 
 
 
