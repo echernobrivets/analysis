@@ -10,6 +10,14 @@
   <img src="<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+                                                                                       
+---
+
+### About Me :
+- Data Analyst
+- Return my life around 360
+- Identify problems of your business
+- In my free time I do sports and read books                                                                                               
                                                                                                 
 ---
 
@@ -20,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original-wordmark.svg" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp;
                                                                                                                                                
 </div>                                                                                               
 
