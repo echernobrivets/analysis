@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="300" height="300"/>
 </div> 
 <h1 align="center">
-  hey there!
+  Hey there!
+  This repository consists of basic knowledges about Data analysis. Lots of it got from "Karpov.courses".
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -31,6 +32,4 @@
                                                                                                                                                
 </div>                                                                                               
 
-# analysis_knowledge
-This repository consists of basic knowledges about Data analysis. Lots of it got from "Karpov.courses".
                                                                                                       
